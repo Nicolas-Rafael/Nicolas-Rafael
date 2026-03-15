@@ -42,9 +42,9 @@ Logic is the beginning of wisdom.
 
 ## 📊 GitHub Statistics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Nicolas-Rafael\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Rafael\&layout=compact\&theme=tokyonight)
 
 ---
 
